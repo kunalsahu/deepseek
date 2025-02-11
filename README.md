@@ -1,7 +1,7 @@
 # How to Run deepseek locally and access using python.
 
 STEP 1:
-Download the ollama from https://ollama.com/download
+Download the ollama from https://ollama.com/download and install locally.
 
 STEP 2: Pull the deepseek-r1 model container locally.
 
