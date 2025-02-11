@@ -13,7 +13,7 @@ STEP 3:  run the deepseek model
 
 Step 4: curl command to inference deepseek:
 
-STEP 5: check if deepseek contaner  running locally:
+STEP 5: check if deepseek container  running locally:
 
 > ollama ps
 
