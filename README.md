@@ -1,4 +1,4 @@
-# How to Run deepseek localy and access using python.
+# How to Run deepseek locally and access using python.
 
 STEP 1:
 Download the ollama from https://ollama.com/download
